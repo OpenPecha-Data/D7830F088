@@ -1,0 +1,22 @@
+id: D7830F088
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:39:30+00:00'
+last_modified: '2022-05-26T11:45:18.269213+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    5dcb:
+      image_group_id: I1PD95872
+      title: རྡོ་རྗེ་ཐེག་པའི་སྦོམ་པོའི་ལྟུང་བ།
+      total_pages: 1953
+      order: 27
+      base_file: 5dcb.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
